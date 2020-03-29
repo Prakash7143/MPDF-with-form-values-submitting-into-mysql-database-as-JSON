@@ -1,0 +1,11 @@
+Simple "MPDF Form Application" using PHP & MySQL with JSON data.
+
+Import the userform sql database and open the directory in the browser keeping it in www/htdocs of your WAMP/XAMP server.
+
+Once you fill the form then the data will be displayed in the table available at the bottom of the form. Then click on the "View Application" to open the complete pdf application of that particular user in the new tab.
+
+
+Happy Coding....
+Thanks...
+
+Developed By: SatyaPrakash.
